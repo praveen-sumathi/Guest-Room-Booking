@@ -1,4 +1,4 @@
-# Hotel Management System
+# Guest Room Booking
 
 #### AIM
 
